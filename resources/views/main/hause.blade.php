@@ -101,7 +101,7 @@
                         </div>
                         <div class="down-content">
                             <span>
-                                <sup>$</sup>1500.00 - <sup>$</sup>3500.00
+                                <sup>€</sup>1500.00 - <sup>€</sup>3500.00
                             </span>
 
                             <h4>Weddings</h4>
@@ -170,7 +170,7 @@
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
                     <div class="section-heading dark-bg">
-                        <h2>Read <em>About Us</em></h2>
+                        <h2>Read more <em>About Us</em></h2>
                         <img src="assets/images/line-dec.png" alt="">
                         <p>Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra ipsum dolor, ultricies fermentum massa consequat eu.</p>
                     </div>

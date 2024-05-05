@@ -325,7 +325,7 @@
             <br>
 
             <div class="main-button text-center">
-                <a href="testimonials.html">Read More</a>
+                <a href="testimonials.html">Read Less</a>
             </div>
         </div>
     </section>

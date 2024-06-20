@@ -70,7 +70,7 @@
 
         <div class="video-overlay header-text">
             <div class="caption">
-                <h6>Best Dumplin and Thai im Stadt</h6>
+                <h6>Best Dumplin and Thai im STADT</h6>
                 <h2>Taste the love at our <em>Restaurant</em></h2>
                 <div class="main-button">
                     <a href="book-table.html">Book a table</a>
